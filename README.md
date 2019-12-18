@@ -6,7 +6,7 @@ This contains 2 folders
    - Contain pyschools.ipynb file, a doc file with data analysis and related CSV files.
     
     
-PyCity Schools Introduction
+PYCITY SCHOOLS - INTRODUCTION
 
 
 For this report, a data set of district wide standardized test results was analyzed to search for trends or actionable insights with the goal of approving student success overall.
