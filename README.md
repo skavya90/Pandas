@@ -4,7 +4,8 @@ This contains 2 folders
    - Contain pymoli.ipynb file, a doc file with data analysis and related CSV file.
 2. PyCity Schools
    - Contain pyschools.ipynb file, a doc file with data analysis and related CSV files.
-    README.md
+    
+    
 PyCity Schools Introduction
 For this report, a data set of district wide standardized test results was analyzed to search for trends or actionable insights with the goal of approving student success overall.
 
@@ -39,6 +40,7 @@ LIMITATIONS:
 
 
 Heroes of Pymoli Introduction
+
 With free to play games such as Heroes of Pymoli, in game purchases are an important source of revenue. This analysis is intended to identify action steps to both increase profitability and improve user experience.
 
 Overview of the Data
